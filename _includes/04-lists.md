@@ -3,8 +3,8 @@
 3. :satisfied:
     1. :kissing:
     2. :sleeping:
-1.:grin:
-2.:worried:
-3.:frowning:
+1. :grin:
+2. :worried:
+3. :frowning:
     i :bowtie:
     ii :unamused:
